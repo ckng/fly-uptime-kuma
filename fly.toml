@@ -1,5 +1,5 @@
 [build]
-  image = "louislam/uptime-kuma:1"
+  image = "louislam/uptime-kuma:latest"
 
 [[mounts]]
   source = "kuma_data"
